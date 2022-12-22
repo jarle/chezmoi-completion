@@ -46,12 +46,3 @@ Add `zinit light jarle/chezmoi-completion` to your `~/.zshrc`.
 * You may have to force rebuild `zcompdump`:
 
         rm -f ~/.zcompdump; compinit
-
-### Contributing
-
-Contributions are welcome, see [CONTRIBUTING](https://github.com/jarle/chezmoi-completion/blob/master/CONTRIBUTING.md).
-
-
-## License
-Completions use the Zsh license, unless explicitly mentioned in the file header.
-See [LICENSE](https://github.com/jarle/chezmoi-completion/blob/master/LICENSE) for more information.
